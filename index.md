@@ -17,38 +17,24 @@ Tutorial's type: lecture style + hands-on
     * Introduction and motivations of the tutorial (5 min)
     * Basic concepts of imputation in machine learning (7 min)
     * Tutorial’s overview (3 min)
-  
-  
 * **Graph machine learning with missing multimodal information** (65 min)
   * Missing information in unimodal graph machine learning (15 min)
     * Sources of missing information: node attributes, node features, edges
     * Models’ taxonomy: trained vs. untrained, robustness vs. imputation
     * Main existing techniques
-    
-
 * **Multimodal graph learning** (20 min)
   * Integrating multimodal information in the graph learning pipeline
   * Notable applications: recommendation and healthcare
-
-
 * **Missing information in multimodal graph machine learning** (30 min)
   * How to define missing multimodal information on graphs
   * Imputing multimodal information on graphs, or using graphs to impute missing multimodal information?
   * Leveraging the item-item co-purchase graph for recommendation
   * Bipartite and similarity graphs for healthcare
-
-
 * **Coffee break** (30 min)
-
-
 * **Hands-on session: tackling missing multimodal information in personalized recommendation and healthcare** (40 min)
   * An imputation pipeline for missing multimodal information in recommendation (20 min)
   * Multimodal processing and training with missing information in healthcare (20 min)
-
-
 * **Current challenges and future directions** (20 min)
-
-
 * **Q&A session** (10 min)
 
 ## Tutorial speakers
